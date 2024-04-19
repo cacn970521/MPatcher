@@ -1,2 +1,2 @@
 # MPatcher-translations
-Файлы локализаций MPatcher.
+Archivos de localización MPatcher.
